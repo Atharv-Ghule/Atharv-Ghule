@@ -7,4 +7,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [Instagram] https://www.instagram.com/atharvghule_313/?hl=en | [Email-id] atharvghule13@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Everthing is Temporary!
+- ⚡ Fun fact: Automobileenthusiast
