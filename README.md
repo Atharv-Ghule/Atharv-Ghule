@@ -1,4 +1,4 @@
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Atharv</h1>
+<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Atharv</h1>
 
   <h2 align="center" style="color:'green'"> Welcome To My Profile </h2>
   
@@ -25,7 +25,7 @@
   
   <br>
   <br>
-  🎯<h2> Skills <h2>
+  <h2> Skills <h2>
   <div style="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 
@@ -42,7 +42,7 @@
     
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-  ## ⚡ Database
+  ## Database
   <img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
   
   
