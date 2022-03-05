@@ -4,13 +4,13 @@
   
   <h1> About Me</h1>
   <p>
-  - 🔭 I’m currently doing internship <br>
-  - 🌱 I’m currently learning Data Science <br>
-  - 👯 I’m looking to collaborate on <br>
-  - 🤔 I’m looking for help with <br>
-  - 💬 Ask me about Anything <br>
-  - 📫 How to reach me on Instagram :-https://www.instagram.com/atharvghule_313/?hl=en<br>
-  - ⚡ Fun fact: Foodie | Automobileentusiast
+  . 🔭 I’m currently doing internship <br>
+  . 🌱 I’m currently learning Data Science <br>
+  . 👯 I’m looking to collaborate on <br>
+  . 🤔 I’m looking for help with <br>
+  . 💬 Ask me about Anything <br>
+  . 📫 How to reach me on Instagram :-https://www.instagram.com/atharvghule_313/?hl=en<br>
+  . ⚡ Fun fact: Foodie | Automobileentusiast
   </p>
 
   #👨👩 Social Network
@@ -25,7 +25,7 @@
   
   <br>
   <br>
-  <h2> Skills <h2>
+  🎯<h2> Skills <h2>
   <div style="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 
