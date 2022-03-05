@@ -27,7 +27,7 @@
   <br>
   <img align="Center"src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif height="150" width="200" />
   
-  <h4> Skills <h4>
+  ## Skills 
   <div style="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 
