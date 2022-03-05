@@ -13,7 +13,7 @@
   <b>.</b> ⚡ Fun fact: Foodie | Automobileentusiast
   </p>
 
-  #👨👩 Social Network
+  #📱 Social Network
  
   [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/atharvghule_313/?hl=en)
   
