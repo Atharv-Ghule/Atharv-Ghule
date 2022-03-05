@@ -25,7 +25,7 @@
   
   <br>
   <br>
-  <img align="Center"src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif height="150" width="250" />
+  <img align="Center"src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif height="200" width="200" />
   
   <h2> Skills <h2>
   <div style="">
