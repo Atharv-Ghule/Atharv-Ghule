@@ -49,7 +49,7 @@
   <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
     
   ##📟 GitHub Stats 🔝
-    <img align="https://github-readme-stats.vercel.app/api?Atharv-Ghule={Atharv-Ghule}"/ >
+  https://github-readme-stats.vercel.app/api?Atharv-Ghule={Atharv-Ghule}"
     
   
   
