@@ -12,8 +12,7 @@
   <b>.</b> 📫 How to reach me on Instagram: https://www.instagram.com/atharvghule_313/?hl=en<br>
   <b>.</b> ⚡ Fun fact: Foodie | Automobileentusiast
   </p>
-  <img align="left"src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif height="150" width="200" />
-
+  
   📱<b>Social Networks</b>
  
   [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/atharvghule_313/?hl=en)
@@ -26,6 +25,7 @@
   
   <br>
   <br>
+  <img align="left"src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif height="150" width="200" />
   <h2> Skills <h2>
   <div style="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
