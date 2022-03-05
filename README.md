@@ -4,8 +4,8 @@
   
   <h1> About Me</h1>
   <p>
-  . 🔭 I’m currently doing internship <br>
-  . 🌱 I’m currently learning Data Science <br>
+  . 🔭 I’m currently Data Science <br>
+  . 🌱 I’m currently learning Bsc.Information Technology <br>
   . 👯 I’m looking to collaborate on <br>
   . 🤔 I’m looking for help with <br>
   . 💬 Ask me about Anything <br>
