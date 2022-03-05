@@ -10,7 +10,7 @@
   - 🤔 I’m looking for help with <br>
   - 💬 Ask me about Anything <br>
   - 📫 How to reach me on Instagram :-https://www.instagram.com/atharvghule_313/?hl=en<br>
-  - ⚡ Fun fact: Foodie|Automobileentusiast
+  - ⚡ Fun fact: Foodie | Automobileentusiast
   </p>
 
   #👨👩 Social
