@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Atharv</h1>
+  <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Atharv</h1>
 
   <h2 align="center" style="color:'green'"> <i>Welcome To My Profile</i> </h2>
   
@@ -13,7 +13,7 @@
   <b>.</b> ⚡ Fun fact: Foodie | Automobileentusiast
   </p>
   
-  📱<b>Social Networks</b>
+  📱<b><h3>Social Networks<h3></b>
  
   [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/atharvghule_313/?hl=en)
   
@@ -27,7 +27,7 @@
   <br>
   <img align="Center"src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif height="150" width="200" />
   
-  <h2> Skills <h2>
+  <h4> Skills <h4>
   <div style="">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 
