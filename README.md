@@ -1,6 +1,6 @@
   <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Atharv</h1>
 
-  <h2 align="center" style="color:'green'"> <i>Welcome To My Profile</i> </h2>
+  <h2 align="center" style="color:'green'> <i>Welcome To My Profile</i> </h2>
   
   <h1> About Me</h1>
   <p>
