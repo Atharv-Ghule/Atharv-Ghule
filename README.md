@@ -12,6 +12,7 @@
   <b>.</b> 📫 How to reach me on Instagram: https://www.instagram.com/atharvghule_313/?hl=en<br>
   <b>.</b> ⚡ Fun fact: Foodie | Automobileentusiast
   </p>
+  <img align="left"src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif height="150" width="200" />
 
   📱<b>Social Networks</b>
  
