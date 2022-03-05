@@ -5,12 +5,12 @@
   <h1> About Me</h1>
   <p>
   <b>.</b> 🔭 I’m currently doing: Data Science <br>
-  . 🌱 I’m currently learning: Bsc.Information Technology <br>
-  . 👯 I’m looking to collaborate on: <br>
-  . 🤔 I’m looking for help with: <br>
-  . 💬 Ask me about Anything: <br>
-  . 📫 How to reach me on Instagram: https://www.instagram.com/atharvghule_313/?hl=en<br>
-  . ⚡ Fun fact: Foodie | Automobileentusiast
+  <b>.</b> 🌱 I’m currently learning: Bsc.Information Technology <br>
+  <b>.</b> 👯 I’m looking to collaborate on: <br>
+  <b>.</b> 🤔 I’m looking for help with: <br>
+  <b>.</b> 💬 Ask me about Anything: <br>
+  <b>.</b> 📫 How to reach me on Instagram: https://www.instagram.com/atharvghule_313/?hl=en<br>
+  <b>.</b> ⚡ Fun fact: Foodie | Automobileentusiast
   </p>
 
   #👨👩 Social Network
