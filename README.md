@@ -13,7 +13,7 @@
   <b>.</b> ⚡ Fun fact: Foodie | Automobileentusiast
   </p>
   
-  📱<b><h3>Social Networks<h3></b>
+  <h3>📱<b>Social Networks<h3></b>
  
   [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/atharvghule_313/?hl=en)
   
@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" / >
   
 
-  ## Tools
+  <h5> Tools <h5>
   <img align="left" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
   <img align="left" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
     
