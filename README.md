@@ -9,7 +9,7 @@
   <b>.</b> 👯 I’m looking to collaborate on: <br>
   <b>.</b> 🤔 I’m looking for help with: <br>
   <b>.</b> 💬 Ask me about: Anything <br>
-  <b>.</b> 📫 How to reach me on Instagram: https://www.instagram.com/atharvghule_313/?hl=en<br>
+  <b>.</b> 📫 How to reach me: [Instagram] https://www.instagram.com/atharvghule_313/?hl=en<br>
   <b>.</b> ⚡ Fun fact: Foodie | Automobileentusiast
   </p>
   
